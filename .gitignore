@@ -230,3 +230,5 @@ results/checkpoints/
 # Keep training logs and result summaries tracked:
 !results/logs/
 !results/*.json
+
+.idea/
