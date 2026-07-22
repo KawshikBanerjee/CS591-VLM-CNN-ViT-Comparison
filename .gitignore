@@ -216,3 +216,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Project-specific ---
+# MedMNIST downloads (~1.3 GB)
+data/
+*.npz
+
+# Model checkpoints (ResNet ~45 MB, ViT ~330 MB; GitHub rejects >100 MB)
+results/checkpoints/
+*.pt
+*.pth
+
+# Keep training logs and result summaries tracked:
+!results/logs/
+!results/*.json
