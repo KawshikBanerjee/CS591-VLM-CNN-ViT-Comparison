@@ -1,0 +1,143 @@
+{
+  "run_name": "vit_b_16_dermamnist_seed1",
+  "args": {
+    "dataset": "dermamnist",
+    "model": "vit_b_16",
+    "epochs": 20,
+    "batch_size": 16,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "size": 224,
+    "seed": 1,
+    "no_class_weights": false
+  },
+  "n_params": 85804039,
+  "device": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "best_epoch": 18,
+  "best_val_f1_macro": 0.7385801742273193,
+  "total_train_seconds": 2422.4,
+  "peak_vram_gb": 2.41,
+  "test": {
+    "accuracy": 0.8189526184538654,
+    "balanced_accuracy": 0.79043892695692,
+    "precision_macro": 0.7388272297834038,
+    "recall_macro": 0.79043892695692,
+    "f1_macro": 0.7601415091818978,
+    "precision_weighted": 0.8451675473886774,
+    "recall_weighted": 0.8189526184538654,
+    "f1_weighted": 0.8280694796135653,
+    "per_class": {
+      "precision": [
+        0.5625,
+        0.7238095238095238,
+        0.6349206349206349,
+        0.7692307692307693,
+        0.5276872964169381,
+        0.9536423841059603,
+        1.0
+      ],
+      "recall": [
+        0.6818181818181818,
+        0.7378640776699029,
+        0.7272727272727273,
+        0.8695652173913043,
+        0.726457399103139,
+        0.8590604026845637,
+        0.9310344827586207
+      ],
+      "f1": [
+        0.6164383561643836,
+        0.7307692307692307,
+        0.6779661016949152,
+        0.8163265306122449,
+        0.6113207547169811,
+        0.9038838760298156,
+        0.9642857142857143
+      ],
+      "support": [
+        66,
+        103,
+        220,
+        23,
+        223,
+        1341,
+        29
+      ]
+    },
+    "confusion_matrix": [
+      [
+        45,
+        8,
+        6,
+        2,
+        4,
+        1,
+        0
+      ],
+      [
+        8,
+        76,
+        5,
+        4,
+        5,
+        5,
+        0
+      ],
+      [
+        11,
+        8,
+        160,
+        0,
+        25,
+        16,
+        0
+      ],
+      [
+        1,
+        1,
+        0,
+        20,
+        0,
+        1,
+        0
+      ],
+      [
+        7,
+        2,
+        21,
+        0,
+        162,
+        31,
+        0
+      ],
+      [
+        8,
+        10,
+        60,
+        0,
+        111,
+        1152,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        27
+      ]
+    ],
+    "auc": 0.9687596203576734,
+    "class_names": [
+      "actinic keratoses and intraepithelial carcinoma",
+      "basal cell carcinoma",
+      "benign keratosis-like lesions",
+      "dermatofibroma",
+      "melanoma",
+      "melanocytic nevi",
+      "vascular lesions"
+    ]
+  }
+}
