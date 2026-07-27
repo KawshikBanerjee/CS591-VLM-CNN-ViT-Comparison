@@ -1,0 +1,1298 @@
+idx,true,pred,parsed_ok,raw
+0,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a sign of pneumonia.
+Final"
+1,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+2,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious consolidation"
+3,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+4,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+5,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lung fields appear relatively clear, and there are"
+6,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+7,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+8,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+9,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+10,1,1,1," B
+Reasoning: The image shows a chest X-ray with an endotracheal tube and a central venous catheter"
+11,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia.
+"
+12,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+13,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+14,1,1,1," B
+Reasoning: The image shows a chest X-ray with a patient who is intubated. There is"
+15,1,1,1," B
+Reasoning: The image shows opacities in the right lower lung field, which is suggestive of pneumonia."
+16,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+17,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+18,1,1,1," B
+Reasoning: The image shows significant opacities in the right lung, which is a characteristic finding of pneumonia"
+19,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+20,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+21,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+22,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+23,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+24,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+25,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+26,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+27,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+28,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+29,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia. The"
+30,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+31,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is suggestive of pneumonia.
+"
+32,1,1,1," B
+Reasoning: The image shows a central line and a feeding tube, suggesting the patient is in a hospital setting"
+33,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears normal, and the lung fields"
+34,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+35,1,1,1," B
+Reasoning: The image shows an opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+36,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+37,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+38,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+39,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+40,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+41,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+42,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+43,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+44,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+45,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+46,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+47,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+48,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+49,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lower lung field, which is suggestive of pneumonia."
+50,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+51,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+52,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+53,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+54,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+55,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+56,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+57,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+58,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+59,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+60,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+61,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+62,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+63,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+64,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, and there are no"
+65,1,1,1," B
+Reasoning: The image shows a foreign object (likely a catheter) in the upper part of the right lung"
+66,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+67,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+68,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+69,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+70,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung, which is consistent with pneumonia.
+Final"
+71,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+72,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+73,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+74,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+75,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+76,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+77,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+78,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+79,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+80,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+81,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+82,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+83,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+84,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+85,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+86,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+87,1,1,1," B
+Reasoning: The image shows a chest X-ray with a central line and a possible endotracheal tube"
+88,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be within normal limits,"
+89,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+90,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+91,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lung fields appear clear, and there are no"
+92,1,1,1," B
+Reasoning: The image shows a foreign object (likely a catheter) in the right main bronchus, which"
+93,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+94,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+95,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lower lung field, which is consistent with pneumonia."
+96,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+97,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+98,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+99,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+100,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung, which is consistent with pneumonia. The presence"
+101,1,1,1," B
+Reasoning: The image shows increased opacity in the lower lung fields, particularly on the right side, which is"
+102,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a sign of pneumonia.
+Final"
+103,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+104,1,1,1," B
+Reasoning: The image shows a foreign object (likely a feeding tube or similar device) in the upper mediast"
+105,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+106,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+107,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+108,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+109,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+110,1,1,1," B
+Reasoning: The image shows an opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+111,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+112,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and the heart size seems"
+113,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+114,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+115,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is often used in patients who are intub"
+116,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+117,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+118,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+119,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+120,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+121,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is often used in patients who are intub"
+122,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+123,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+124,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, and there is no"
+125,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+126,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+127,1,1,1," B
+Reasoning: The image shows an opacity in the right lung, which is a sign of pneumonia.
+Final"
+128,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+129,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+130,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+131,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+132,1,1,1," B
+Reasoning: The image shows a foreign object (likely a medical device) in the upper part of the chest"
+133,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+134,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+135,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+136,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+137,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+138,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+139,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+140,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+141,1,1,1," B
+Reasoning: The image shows a chest X-ray with an endotracheal tube and a central venous catheter"
+142,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+143,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+144,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+145,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+146,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+147,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+148,1,1,1," B
+Reasoning: The image shows increased opacity in the lower lung fields, particularly on the right side, which is"
+149,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+150,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+151,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea. This is a common finding in patients"
+152,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+153,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is often used in patients who are unable to"
+154,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is a sign of a medical procedure. The"
+155,1,1,1," B
+Reasoning: The image shows increased opacity in the left lung, which could indicate pneumonia.
+Final Answer:"
+156,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lower lung field, which is consistent with pneumonia."
+157,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+158,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+159,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+160,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+161,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+162,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+163,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+164,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+165,0,0,1," A
+Reasoning: The image shows a chest X-ray of a child. The lungs appear clear, and there"
+166,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+167,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart appears enlarged, and there is some increased"
+168,1,1,1," B
+Reasoning: The image shows increased opacity in the lower lung fields, particularly on the right side, which is"
+169,1,1,1," B
+Reasoning: The image shows increased opacity in the lower right lung field, which is a characteristic sign of pneumonia"
+170,1,1,1," B
+Reasoning: The image shows widespread opacities in both lung fields, which is a characteristic finding of pneumonia"
+171,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung, which is consistent with pneumonia. The presence"
+172,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+173,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+174,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+175,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+176,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+177,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+178,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung, which is consistent with pneumonia. The presence"
+179,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+180,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+181,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+182,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+183,1,1,1," B
+Reasoning: The image shows a chest X-ray with signs of consolidation in the lower lung fields, which"
+184,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+185,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+186,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+187,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+188,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+189,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+190,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+191,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+192,1,1,1," B
+Reasoning: The image shows a chest X-ray with a foreign object (likely a catheter or tube)"
+193,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+194,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, the heart size is normal"
+195,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+196,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, and there are no"
+197,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+198,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+199,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+200,1,1,1," B
+Reasoning: The image shows a foreign object (likely a feeding tube or similar) in the trachea, which"
+201,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+202,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, and there is no"
+203,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+204,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+205,1,1,1," B
+Reasoning: The image shows an opacity in the left lung, which is a characteristic sign of pneumonia.
+"
+206,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+207,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+208,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+209,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+210,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+211,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+212,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+213,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung, which is consistent with pneumonia. The presence"
+214,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+215,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung, which is consistent with pneumonia. The presence"
+216,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+217,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+218,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+219,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+220,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+221,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+222,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+223,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+224,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+225,1,1,1," B
+Reasoning: The image shows a foreign object (likely an endotracheal tube) in the trachea. This"
+226,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+227,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia.
+"
+228,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+229,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+230,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+231,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+232,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+233,1,0,1," A
+Reasoning: The image shows a chest X-ray with an endotracheal tube in place. The lungs"
+234,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+235,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+236,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+237,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+238,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is a sign of a medical procedure. The"
+239,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+240,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+241,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung field, which is suggestive of pneumonia.
+Final"
+242,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is suggestive of pneumonia.
+"
+243,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+244,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+245,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung, which is a characteristic sign of pneumonia."
+246,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+247,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+248,1,0,1," A
+Reasoning: The image shows a chest X-ray with an endotracheal tube and a central venous catheter"
+249,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+250,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+251,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+252,1,1,1," B
+Reasoning: The image shows a dense opacity in the left lung, which is consistent with pneumonia. The presence"
+253,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious signs"
+254,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+255,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+256,1,1,1," B
+Reasoning: The image shows increased opacity in the lower left lung field, which is consistent with pneumonia.
+"
+257,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lower lung field, which is consistent with pneumonia."
+258,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+259,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+260,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+261,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+262,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+263,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+264,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+265,1,1,1," B
+Reasoning: The image shows a chest X-ray with an endotracheal tube and a central line."
+266,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+267,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+268,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+269,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+270,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+271,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is suggestive of pneumonia. The"
+272,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung, which is consistent with pneumonia. The presence"
+273,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+274,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+275,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+276,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, and there are no"
+277,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+278,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+279,1,1,1," B
+Reasoning: The image shows a chest X-ray with a central line and endotracheal tube. There"
+280,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+281,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+282,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+283,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia.
+"
+284,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+285,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+286,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+287,1,1,1," B
+Reasoning: The image shows increased opacity in the left lung, which is a characteristic sign of pneumonia.
+"
+288,1,0,1," A
+Reasoning: The image shows a chest X-ray with an endotracheal tube in place. The lungs"
+289,1,1,1," B
+Reasoning: The image shows a central line and an endotracheal tube, suggesting a patient in a hospital"
+290,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+291,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+292,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+293,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+294,1,1,1," B
+Reasoning: The image shows a foreign object (likely a device) in the chest, which is not a"
+295,1,1,1," B
+Reasoning: The image shows an opacity in the left lung, which is a sign of pneumonia.
+Final"
+296,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lung fields appear relatively clear, with no obvious"
+297,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+298,1,1,1," B
+Reasoning: The image shows increased opacity in the lower lung fields, particularly on the right side, which is"
+299,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is suggestive of pneumonia.
+"
+300,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+301,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+302,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lower lung field, which is suggestive of pneumonia."
+303,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+304,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+305,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+306,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be within normal limits,"
+307,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+308,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+309,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+310,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+311,1,1,1," B
+Reasoning: The image shows widespread opacities in both lung fields, which is a characteristic finding of pneumonia"
+312,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+313,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+314,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+315,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+316,1,1,1," B
+Reasoning: The image shows a hazy opacity in the right lung field, which is suggestive of pneumonia.
+"
+317,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+318,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious signs"
+319,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+320,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+321,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+322,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+323,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+324,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+325,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+326,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+327,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+328,1,0,1," A
+Reasoning: The image shows a clear lung field with no obvious signs of consolidation or infiltrates, which are"
+329,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+330,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+331,1,1,1," B
+Reasoning: The image shows increased opacity in the left lung, which is a characteristic sign of pneumonia.
+"
+332,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+333,1,1,1," B
+Reasoning: The image shows a central line, which is often used for medical purposes. The presence of a"
+334,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+335,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+336,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+337,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+338,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+339,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+340,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+341,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+342,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be normal, and the"
+343,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+344,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+345,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+346,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is often used in patients who are unable to"
+347,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+348,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lung fields appear clear, and there are no"
+349,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+350,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+351,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+352,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+353,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+354,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+355,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+356,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+357,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+358,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia.
+"
+359,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+360,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+361,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+362,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+363,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+364,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+365,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+366,1,1,1," B
+Reasoning: The image shows a chest X-ray with an endotracheal tube and a central venous catheter"
+367,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+368,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+369,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+370,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+371,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung, which is consistent with pneumonia. The presence"
+372,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+373,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a sign of pneumonia.
+Final"
+374,1,1,1," B
+Reasoning: The image shows a foreign object (likely an endotracheal tube) in the trachea. This"
+375,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+376,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+377,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+378,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+379,1,1,1," B
+Reasoning: The image shows a foreign object (likely a catheter or device) in the chest, which is"
+380,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+381,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+382,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+383,1,0,1," A
+Reasoning: The image shows a clear lung field with no obvious signs of consolidation or infiltrates, which are"
+384,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+385,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+386,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+387,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+388,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+389,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+390,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+391,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+392,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+393,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+394,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+395,1,1,1," B
+Reasoning: The image shows a foreign object (likely an endotracheal tube) in the trachea. This"
+396,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear visualization of the ribs, lungs, heart,"
+397,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+398,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+399,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is suggestive of pneumonia.
+"
+400,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+401,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lower lung field, which is suggestive of pneumonia."
+402,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+403,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+404,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+405,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+406,1,1,1," B
+Reasoning: The image shows an opacity in the right lung, which is a sign of pneumonia.
+Final"
+407,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+408,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+409,1,1,1," B
+Reasoning: The image shows increased opacity in the lower lung fields, particularly on the right side, which is"
+410,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+411,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+412,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and the heart size seems"
+413,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+414,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+415,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+416,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+417,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung, which is consistent with pneumonia.
+Final"
+418,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia.
+"
+419,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+420,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung, which is consistent with pneumonia. The presence"
+421,1,1,1," B
+Reasoning: The image shows an endotracheal tube and a central line, suggesting the patient is in a"
+422,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+423,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+424,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+425,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+426,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia. The"
+427,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+428,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+429,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+430,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+431,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+432,1,1,1," B
+Reasoning: The image shows a foreign object (likely a medical device) in the airway, which is not"
+433,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+434,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+435,1,1,1," B
+Reasoning: The image shows a significant opacity in the right lung field, which is consistent with pneumonia. The"
+436,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious signs"
+437,1,1,1," B
+"
+438,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+439,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+440,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is a sign of a possible medical intervention."
+441,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+442,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+443,1,1,1," B
+Reasoning: The image shows a foreign object (likely a device) in the chest, which is not a"
+444,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+445,1,1,1," B
+Reasoning: The image shows increased opacity in the lower lung fields, particularly on the right side, which is"
+446,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+447,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+448,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+449,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+450,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+451,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+452,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+453,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+454,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+455,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+456,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+457,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+458,1,1,1," B
+Reasoning: The image shows a hazy opacity in the right lower lung field, which is suggestive of pneumonia."
+459,1,0,1," A
+Reasoning: The image shows a chest X-ray with a tube inserted into the patient's body."
+460,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+461,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+462,1,1,1," B
+Reasoning: The image shows an endotracheal tube and a central line, suggesting the patient is in a"
+463,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+464,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+465,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia. The"
+466,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+467,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is suggestive of pneumonia.
+"
+468,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+469,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+470,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+471,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, the heart size is normal"
+472,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+473,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+474,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung, which is consistent with pneumonia.
+Final"
+475,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+476,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+477,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+478,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia. The"
+479,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+480,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+481,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+482,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+483,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+484,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+485,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+486,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+487,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+488,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+489,1,1,1," B
+Reasoning: The image shows an endotracheal tube and a central line, suggesting the patient is in a"
+490,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+491,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+492,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+493,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+494,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+495,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+496,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+497,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+498,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+499,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which could indicate pneumonia.
+Final Answer:"
+500,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+501,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+502,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+503,1,1,1," B
+Reasoning: The image shows increased opacity in the left lung, which is a characteristic sign of pneumonia.
+"
+504,1,1,1," B
+Reasoning: The image shows a tube in the trachea, which is likely an endotracheal tube. This"
+505,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+506,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+507,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+508,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+509,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+510,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+511,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+512,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+513,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+514,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+515,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+516,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is suggestive of pneumonia.
+"
+517,1,1,1," B
+Reasoning: The image shows a foreign object (likely a catheter) in the right main bronchus. This"
+518,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+519,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+520,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+521,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+522,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung, which is a characteristic sign of pneumonia.
+"
+523,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+524,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+525,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+526,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+527,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+528,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears normal, and the lung fields"
+529,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+530,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+531,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+532,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+533,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+534,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+535,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+536,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+537,1,1,1," B
+Reasoning: The image shows an endotracheal tube in the trachea, which is a sign of intubation"
+538,1,1,1," B
+Reasoning: The image shows an endotracheal tube, which is a sign of a possible medical intervention."
+539,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+540,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+541,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+542,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+543,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+544,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung field, which is a characteristic sign of pneumonia."
+545,1,1,1," B
+Reasoning: The image shows a chest X-ray with signs of consolidation in the right lung, which is"
+546,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+547,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+548,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+549,1,1,1," B
+Reasoning: The image shows a foreign object (likely a medical device) in the trachea, which is not"
+550,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears normal, and the lung fields"
+551,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+552,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+553,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+554,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+555,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+556,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+557,1,1,1," B
+Reasoning: The image shows opacities in the right lung, which is a characteristic sign of pneumonia."
+558,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+559,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+560,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+561,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+562,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is suggestive of pneumonia.
+"
+563,1,0,1," A
+Reasoning: The image shows a chest X-ray. The left lung appears to be more opaque than the"
+564,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is suggestive of pneumonia. The"
+565,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+566,1,1,1," B
+Reasoning: The image shows a foreign object (likely a medical device) in the upper airway, which is"
+567,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+568,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+569,1,1,1," B
+Reasoning: The image shows increased opacity in the lower right lung field, which is suggestive of pneumonia.
+"
+570,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+571,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+572,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+573,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+574,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+575,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+576,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+577,0,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+578,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+579,1,1,1," B
+Reasoning: The image shows a chest X-ray with signs of consolidation in the right lower lung field,"
+580,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious consolidation"
+581,1,0,1," A
+Reasoning: The image shows a chest X-ray. The heart size appears to be slightly enlarged, and"
+582,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is consistent with pneumonia.
+"
+583,1,1,1," B
+Reasoning: The image shows a foreign object (likely a medical device) in the trachea, which is not"
+584,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+585,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+586,1,1,1," B
+Reasoning: The image shows increased opacity in the right lower lung field, which is a characteristic sign of pneumonia"
+587,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious signs"
+588,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+589,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+590,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is suggestive of pneumonia.
+"
+591,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+592,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+593,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+594,1,1,1," B
+Reasoning: The image shows a foreign object (likely a medical device) in the trachea, which is not"
+595,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+596,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+597,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+598,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+599,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear relatively clear, with no obvious consolidation"
+600,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+601,1,1,1," B
+Reasoning: The image shows increased opacity in the right lung field, which is suggestive of pneumonia.
+Final"
+602,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+603,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lung fields appear clear, and there is no"
+604,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+605,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+606,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+607,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+608,1,1,1," B
+Reasoning: The image shows opacities in the right lung, which is a sign of pneumonia.
+"
+609,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+610,1,1,1," B
+Reasoning: The image shows a foreign object (likely a device) in the chest, which is not a"
+611,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+612,1,0,1," A
+Reasoning: The image shows a clear chest X-ray with no obvious signs of consolidation or infiltrates,"
+613,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+614,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+615,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+616,1,1,1," B
+Reasoning: The image shows a significant opacity in the left lung field, which is suggestive of pneumonia.
+"
+617,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+618,1,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+619,0,0,1," A
+Reasoning: The image shows a chest X-ray with clear lung fields, a normal heart size, and"
+620,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+621,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+622,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
+623,0,0,1," A
+Reasoning: The image shows a chest X-ray. The lungs appear clear, and there are no obvious"
