@@ -1,10 +1,12 @@
 """
 Training and evaluation for CNN / ViT baselines.
 
-Example:
+Examples:
     python src/train.py --dataset pneumoniamnist --model resnet18 --epochs 10
+    python src/train.py --dataset dermamnist --model resnet18 --epochs 20 --no-aug
+    python src/train.py --dataset dermamnist --model resnet18 --epochs 20 --freeze-backbone
 """
-  
+
 import argparse
 import csv
 import json
@@ -38,9 +40,28 @@ def build_model(name, num_classes):
     elif name == "vit_b_16":
         m = models.vit_b_16(weights=models.ViT_B_16_Weights.IMAGENET1K_V1)
         m.heads.head = nn.Linear(m.heads.head.in_features, num_classes)
+    elif name == "efficientnet_b0":
+        m = models.efficientnet_b0(weights=models.EfficientNet_B0_Weights.IMAGENET1K_V1)
+        m.classifier[1] = nn.Linear(m.classifier[1].in_features, num_classes)
     else:
         raise ValueError(f"Unknown model: {name}")
     return m
+
+
+def freeze_backbone(model, name):
+    """Freeze everything, then unfreeze only the classification head (linear probe)."""
+    for p in model.parameters():
+        p.requires_grad = False
+    if name.startswith("resnet"):
+        head = model.fc
+    elif name == "vit_b_16":
+        head = model.heads.head
+    elif name == "efficientnet_b0":
+        head = model.classifier[1]
+    else:
+        raise ValueError(f"Unknown model: {name}")
+    for p in head.parameters():
+        p.requires_grad = True
 
 
 @torch.no_grad()
@@ -72,6 +93,10 @@ def main():
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--no-class-weights", action="store_true",
                     help="ablation: train without class weighting")
+    ap.add_argument("--no-aug", action="store_true",
+                    help="ablation: train without data augmentation")
+    ap.add_argument("--freeze-backbone", action="store_true",
+                    help="ablation: train only the final layer (linear probe)")
     args = ap.parse_args()
 
     set_seed(args.seed)
@@ -83,30 +108,40 @@ def main():
     run_name = f"{args.model}_{args.dataset}_seed{args.seed}"
     if args.no_class_weights:
         run_name += "_noweights"
+    if args.no_aug:
+        run_name += "_noaug"
+    if args.freeze_backbone:
+        run_name += "_frozen"
 
     os.makedirs("results/logs", exist_ok=True)
     os.makedirs("results/checkpoints", exist_ok=True)
 
     train_loader, val_loader, test_loader = get_dataloaders(
-        args.dataset, size=args.size, batch_size=args.batch_size, seed=args.seed
+        args.dataset, size=args.size, batch_size=args.batch_size,
+        seed=args.seed, use_aug=not args.no_aug
     )
 
     model = build_model(args.model, n_classes).to(device)
     n_params = sum(p.numel() for p in model.parameters())
 
+    if args.freeze_backbone:
+        freeze_backbone(model, args.model)
+    trainable = sum(p.numel() for p in model.parameters() if p.requires_grad)
+
     # Class-weighted loss: the counter-measure to the imbalance found in Step 1.
     weights = None if args.no_class_weights else get_class_weights(args.dataset, device)
     criterion = nn.CrossEntropyLoss(weight=weights)
 
-    optimizer = torch.optim.AdamW(model.parameters(), lr=args.lr,
-                                  weight_decay=args.weight_decay)
+    # Only optimise parameters that require gradients (matters when frozen).
+    params = [p for p in model.parameters() if p.requires_grad]
+    optimizer = torch.optim.AdamW(params, lr=args.lr, weight_decay=args.weight_decay)
     scheduler = torch.optim.lr_scheduler.CosineAnnealingLR(optimizer, T_max=args.epochs)
     scaler = torch.amp.GradScaler("cuda", enabled=(device == "cuda"))
 
     print(f"Run       : {run_name}")
-    print(f"Device    : {device}  |  Params: {n_params:,}")
-    print(f"Classes   : {n_classes}  |  Class weights: "
-          f"{'off' if weights is None else [round(w, 2) for w in weights.tolist()]}")
+    print(f"Device    : {device}  |  Params: {n_params:,}  |  Trainable: {trainable:,}")
+    print(f"Classes   : {n_classes}  |  Aug: {not args.no_aug}  |  "
+          f"Class weights: {'off' if weights is None else 'on'}")
 
     log_path = f"results/logs/{run_name}.csv"
     log_file = open(log_path, "w", newline="")
@@ -177,6 +212,7 @@ def main():
         "run_name": run_name,
         "args": vars(args),
         "n_params": n_params,
+        "trainable_params": trainable,
         "device": torch.cuda.get_device_name(0) if device == "cuda" else "cpu",
         "best_epoch": best_epoch,
         "best_val_f1_macro": best_f1,
