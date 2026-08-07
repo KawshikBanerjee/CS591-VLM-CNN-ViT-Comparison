@@ -1,0 +1,66 @@
+{
+  "run_name": "efficientnet_b0_pneumoniamnist_seed42",
+  "args": {
+    "dataset": "pneumoniamnist",
+    "model": "efficientnet_b0",
+    "epochs": 10,
+    "batch_size": 32,
+    "lr": 0.0001,
+    "weight_decay": 0.0001,
+    "size": 224,
+    "seed": 42,
+    "no_class_weights": false,
+    "no_aug": false,
+    "freeze_backbone": false
+  },
+  "n_params": 4010110,
+  "trainable_params": 4010110,
+  "device": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "best_epoch": 7,
+  "best_val_f1_macro": 0.9876749382570857,
+  "total_train_seconds": 255.8,
+  "peak_vram_gb": 1.57,
+  "test": {
+    "accuracy": 0.9326923076923077,
+    "balanced_accuracy": 0.9111111111111111,
+    "precision_macro": 0.94974826180772,
+    "recall_macro": 0.9111111111111111,
+    "f1_macro": 0.9253248233416913,
+    "precision_weighted": 0.9384739870534643,
+    "recall_weighted": 0.9326923076923077,
+    "f1_weighted": 0.9311887394574879,
+    "per_class": {
+      "precision": [
+        0.9948453608247423,
+        0.9046511627906977
+      ],
+      "recall": [
+        0.8247863247863247,
+        0.9974358974358974
+      ],
+      "f1": [
+        0.9018691588785047,
+        0.948780487804878
+      ],
+      "support": [
+        234,
+        390
+      ]
+    },
+    "confusion_matrix": [
+      [
+        193,
+        41
+      ],
+      [
+        1,
+        389
+      ]
+    ],
+    "auc": 0.9906147271531887,
+    "class_names": [
+      "normal",
+      "pneumonia"
+    ]
+  }
+}

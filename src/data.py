@@ -88,11 +88,16 @@ def get_dataset(dataset_flag, split, size=224, train_aug=False):
     )
 
 
-def get_dataloaders(dataset_flag, size=224, batch_size=32, num_workers=0, seed=42):
-    """Return (train_loader, val_loader, test_loader)."""
+def get_dataloaders(dataset_flag, size=224, batch_size=32, num_workers=0,
+                    seed=42, use_aug=True):
+    """Return (train_loader, val_loader, test_loader).
+
+    use_aug=False disables training augmentation (used for the augmentation
+    ablation). Validation and test never use augmentation.
+    """
     set_seed(seed)
 
-    train_ds = get_dataset(dataset_flag, "train", size, train_aug=True)
+    train_ds = get_dataset(dataset_flag, "train", size, train_aug=use_aug)
     val_ds = get_dataset(dataset_flag, "val", size, train_aug=False)
     test_ds = get_dataset(dataset_flag, "test", size, train_aug=False)
 
